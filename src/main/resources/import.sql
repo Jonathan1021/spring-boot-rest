@@ -1,0 +1,10 @@
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('Alice', 'Smith', 'alice.smith@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('Bob', 'Johnson', 'bob.johnson@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('Eva', 'Brown', 'eva.brown@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('David', 'Miller', 'david.miller@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('Sophia', 'Williams', 'sophia.williams@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('James', 'Jones', 'james.jones@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('Olivia', 'Davis', 'olivia.davis@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('William', 'Wilson', 'william.wilson@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('Emma', 'Taylor', 'emma.taylor@example.com', '2023-08-28');
+INSERT INTO clients (name, last_name, email, create_at) VALUES ('Alexander', 'Brown', 'alexander.brown@example.com', '2023-08-28');
